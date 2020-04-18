@@ -1,0 +1,27 @@
+﻿@model System.Collections.Generic.List<Mvc2Hockey.ViewModels.PlayerListViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Players</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Namn</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Player" asp-action="PlayerDetail" asp-route-id="@p.Id">
+                        @p.Name
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
