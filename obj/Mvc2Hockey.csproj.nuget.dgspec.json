@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wet51\\source\\repos\\Mvc2Hockey\\Mvc2Hockey.csproj": {}
+    "C:\\Users\\wet51\\source\\repos\\ASP.NET MVC2\\Mvc2Hockey\\Mvc2Hockey.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wet51\\source\\repos\\Mvc2Hockey\\Mvc2Hockey.csproj": {
+    "C:\\Users\\wet51\\source\\repos\\ASP.NET MVC2\\Mvc2Hockey\\Mvc2Hockey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wet51\\source\\repos\\Mvc2Hockey\\Mvc2Hockey.csproj",
+        "projectUniqueName": "C:\\Users\\wet51\\source\\repos\\ASP.NET MVC2\\Mvc2Hockey\\Mvc2Hockey.csproj",
         "projectName": "Mvc2Hockey",
-        "projectPath": "C:\\Users\\wet51\\source\\repos\\Mvc2Hockey\\Mvc2Hockey.csproj",
+        "projectPath": "C:\\Users\\wet51\\source\\repos\\ASP.NET MVC2\\Mvc2Hockey\\Mvc2Hockey.csproj",
         "packagesPath": "C:\\Users\\wet51\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wet51\\source\\repos\\Mvc2Hockey\\obj\\",
+        "outputPath": "C:\\Users\\wet51\\source\\repos\\ASP.NET MVC2\\Mvc2Hockey\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
